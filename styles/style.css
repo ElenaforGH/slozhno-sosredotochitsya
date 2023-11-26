@@ -49,11 +49,9 @@
 }
 
 .accent-link:focus-visible {
-  display: inline-block;
   padding-inline-end: 0.0625rem;
   padding-block-end: 0.25rem;
   outline: 0.05em solid currentColor;
-  line-height: 50%;
 }
 
 .decoration {
