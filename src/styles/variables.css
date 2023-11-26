@@ -14,4 +14,12 @@
   --title-color: #FF0070;
   --decorated-color: #FF0070;
   --decorated-zone-display: block;
+  --padding: 0.625rem;
+  --main-margin: 2.5rem;
+  --cs-title-margin: 1.25rem;
+  --сs-subtitle-margin: 0.625rem;
+  --cs-gap: 1.25rem;
+  --main-gap: 3.125rem;
+  --cs-gallery-gap: 0.3125rem;
+  --position-offset: 0.625rem;
 }
