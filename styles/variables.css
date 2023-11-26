@@ -1,0 +1,25 @@
+:root {
+  --main-title-color: #DB00FF;
+  --text-color: #F1B2CE;
+  --subtitle-color: #000028;
+  --accent-color: #FF0070;
+  --main-font: IBM Plex mono;
+  --font-size: 18px;
+  --bg-color: #000028;
+  --bg-image: image-set(
+    url('../images/cover-image-dark.avif') type('image/avif'),
+    url('../images/cover-image-dark.png') type('image/png')
+  );
+  --button-color: #FF0070;
+  --title-color: #FF0070;
+  --decorated-color: #FF0070;
+  --decorated-zone-display: block;
+  --padding: 0.625rem;
+  --main-margin: 2.5rem;
+  --cs-title-margin: 1.25rem;
+  --сs-subtitle-margin: 0.625rem;
+  --cs-gap: 1.25rem;
+  --main-gap: 3.125rem;
+  --cs-gallery-gap: 0.3125rem;
+  --position-offset: 0.625rem;
+}
