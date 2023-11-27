@@ -58,7 +58,7 @@
 .decoration::after {
   content: '';
   position: absolute;
-  display: var(--decorated-zone-display);
+  display: block;
   inline-size: 25px;
   block-size: 25px;
 }
